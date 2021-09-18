@@ -6,4 +6,4 @@ The Dynamic Traffic Signal Generator is an application which senses vehicular la
 
 A Graphical UI is created as a prototype to test this.
 
-![Smart Traffic Management System][OutputScreenshots/ReadMe1.png]
+![Smart Traffic Management System](OutputScreenshots/ReadMe1.png)
